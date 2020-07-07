@@ -8,7 +8,7 @@
 
 2 opencv (cv2)
 
-- `pip install python-opencv` or `pip3 install python-opencv`
+- `pip install opencv-python` or `pip3 install opencv-python
 
 3 pillow
 
